@@ -1,0 +1,18 @@
+{
+  "~~documents": {
+    "description": "Google Drive / Sheets — content CMS spreadsheet, post schedule, performance data",
+    "exampleServers": ["gdrive-mcp"]
+  },
+  "~~linkedin": {
+    "description": "LinkedIn — company/personal profile posting, engagement data",
+    "exampleServers": ["linkedin-mcp"]
+  },
+  "~~knowledge_base": {
+    "description": "Notion — content calendar, post history, campaign notes",
+    "exampleServers": ["notion-mcp"]
+  },
+  "~~crawler": {
+    "description": "Firecrawl — source article extraction for post generation",
+    "exampleServers": ["firecrawl-mcp"]
+  }
+}

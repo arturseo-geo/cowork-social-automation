@@ -1,0 +1,11 @@
+{
+  "name": "social-automation",
+  "version": "1.0.0",
+  "description": "Multilingual social content automation for LinkedIn and X. Generate, schedule, and review social posts in EN/PT/ES from a Google Sheets CMS. Includes infographic prompt generation and weekly performance review.",
+  "author": {
+    "name": "Artur Ferreira",
+    "url": "https://thegeolab.net"
+  },
+  "homepage": "https://github.com/arturseo-geo/social-automation-plugin",
+  "license": "MIT"
+}
